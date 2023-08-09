@@ -1329,6 +1329,9 @@ Where to discover learning resources or new Python libraries.
 
 ## Websites
 
+* Cheatsheets and Quick References
+    * [strftime cheatsheet](https://strftime.org/)
+    * [f-string help](https://fstring.help/)
 * Tutorials
     * [Full Stack Python](https://www.fullstackpython.com/)
     * [Python Cheatsheet](https://www.pythoncheatsheet.org/)
